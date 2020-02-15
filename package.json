@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "repository": "https://github.com/Jinho1011/Nomad-MovieQL"
+  "repository": "https://github.com/Jinho1011/Nomad-MovieQL",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
